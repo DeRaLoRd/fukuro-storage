@@ -35,6 +35,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/cs/cs_1_labcoat.png",
+      "storage/graphics/sprites/cs/cs_1_pio.png",
       "storage/graphics/sprites/cs/cs_1_casual.png",
       "storage/graphics/sprites/cs/cs_1_civil.png",
       "storage/graphics/sprites/cs/cs_1_civil2.png",
