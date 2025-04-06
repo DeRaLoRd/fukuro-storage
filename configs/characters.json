@@ -10313,15 +10313,7 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_x.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_f.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_g.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_h.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_i.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_1.png",
@@ -10335,7 +10327,8 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
@@ -10379,15 +10372,7 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_x.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_f.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_g.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_h.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_i.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_2.png",
@@ -10401,7 +10386,8 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
@@ -10445,15 +10431,7 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_x.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_f.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_g.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_h.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_i.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_3.png",
@@ -10467,7 +10445,8 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
@@ -10511,15 +10490,7 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_x.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_d.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_f.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_g.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_h.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_2_i.png"
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1pAlt_4.png",
@@ -10533,7 +10504,8 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
@@ -10577,7 +10549,29 @@
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_x.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_y.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1_z.png",
-      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_scream.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2pAlt.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2j.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2p.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2d.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2d2.png",
+      "NONE",
+      "NONE",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2sp.png"
+    ],
+    "offset": "50% 40%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
+    ]
+  },
+  {
+    "name": "Натсуки",
+    "modification": "Чистовик",
+    "file": "storage/graphics/sprites/sprites_hitbox_6.png",
+    "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2_b.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2_c.png",
@@ -10599,13 +10593,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_6.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_7.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a2.png",
@@ -10657,13 +10652,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_7.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_8.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a2.png",
@@ -10715,13 +10711,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_8.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_9.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a2.png",
@@ -10773,13 +10770,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_9.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_10.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHs_a2.png",
@@ -10831,13 +10829,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_10.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_11.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHc_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_1LHc_a2.png",
@@ -10889,13 +10888,14 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_1_glasses.png"
     ]
   },
   {
     "name": "Натсуки",
     "modification": "Чистовик",
-    "file": "storage/graphics/sprites/sprites_hitbox_11.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_12.png",
     "emotions": [
       "storage/graphics/sprites/mods/DDLC/nats/ni_2LH_a.png",
       "storage/graphics/sprites/mods/DDLC/nats/ni_2LH_b.png",
@@ -10918,7 +10918,8 @@
     ],
     "offset": "50% 40%",
     "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/DDLC/nats/ni_2_glasses.png"
     ]
   },
   {
