@@ -11491,24 +11491,24 @@
   {
     "name": "Алина",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/alina/1/alina_1_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/alina/1/alina_1_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_normal.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_joy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_smile.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_shy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_sad.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_shock.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_panic.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_resent.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_anger.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/emo/alina_1_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/emo/alina_1_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/alina/1/clothes/alina_1_pio.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/clothes/alina_1_casual.png",
-      "storage/graphics/sprites/mods/OverMod/alina/1/clothes/alina_1_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/clothes/alina_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/clothes/alina_1_casual.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/1/clothes/alina_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11518,24 +11518,24 @@
   {
     "name": "Алина",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/alina/2/alina_2_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/alina/2/alina_2_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_normal.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_joy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_smile.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_shy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_sad.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_shock.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_panic.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_resent.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_anger.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/emo/alina_2_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/emo/alina_2_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/alina/2/clothes/alina_2_pio.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/clothes/alina_2_casual.png",
-      "storage/graphics/sprites/mods/OverMod/alina/2/clothes/alina_2_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/clothes/alina_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/clothes/alina_2_casual.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/2/clothes/alina_2_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11545,24 +11545,24 @@
   {
     "name": "Алина",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/alina/3/alina_3_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/alina/3/alina_3_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_normal.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_joy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_smile.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_shy.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_sad.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_shock.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_panic.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_resent.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_anger.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/emo/alina_3_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/emo/alina_3_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/alina/3/clothes/alina_3_pio.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/clothes/alina_3_casual.png",
-      "storage/graphics/sprites/mods/OverMod/alina/3/clothes/alina_3_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/clothes/alina_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/clothes/alina_3_casual.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/alina/3/clothes/alina_3_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11572,24 +11572,24 @@
   {
     "name": "Шарлотта",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/lotte/1/lotte_1_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/lotte_1_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_normal.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_joy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_smile.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_shy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_sad.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_shock.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_panic.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_resent.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_anger.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/emo/lotte_1_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/emo/lotte_1_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/lotte/1/clothes/lotte_1_pio.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/clothes/lotte_1_dress.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/1/clothes/lotte_1_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/clothes/lotte_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/clothes/lotte_1_dress.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/clothes/lotte_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11599,24 +11599,24 @@
   {
     "name": "Шарлотта",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/lotte/2/lotte_2_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/lotte_2_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_normal.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_joy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_smile.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_shy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_sad.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_shock.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_panic.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_resent.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_anger.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/emo/lotte_2_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/emo/lotte_2_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/lotte/2/clothes/lotte_2_pio.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/clothes/lotte_2_dress.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/2/clothes/lotte_2_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/clothes/lotte_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/clothes/lotte_2_dress.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/clothes/lotte_2_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11626,24 +11626,24 @@
   {
     "name": "Шарлотта",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/lotte/3/lotte_3_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/lotte_3_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_normal.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_joy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_smile.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_shy.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_sad.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_shock.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_panic.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_resent.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_anger.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/emo/lotte_3_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/emo/lotte_3_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/lotte/3/clothes/lotte_3_pio.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/clothes/lotte_3_dress.png",
-      "storage/graphics/sprites/mods/OverMod/lotte/3/clothes/lotte_3_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/clothes/lotte_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/clothes/lotte_3_dress.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/clothes/lotte_3_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11653,24 +11653,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/1/kira_1_body1.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/1/kira_1_body1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_pio1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_casual1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_pio1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_casual1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11680,24 +11680,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/2/kira_2_body1.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/2/kira_2_body1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_pio1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_casual1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_pio1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_casual1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11707,24 +11707,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/3/kira_3_body1.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/3/kira_3_body1.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_pio1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_casual1.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_pio1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_casual1.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11734,24 +11734,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/1/kira_1_body2.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/1/kira_1_body2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/emo/kira_1_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/emo/kira_1_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_pio2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_casual2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/1/clothes/kira_1_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_pio2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_casual2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11761,24 +11761,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/2/kira_2_body2.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/2/kira_2_body2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/emo/kira_2_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/emo/kira_2_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_pio2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_casual2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/2/clothes/kira_2_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_pio2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_casual2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11788,24 +11788,24 @@
   {
     "name": "Кира",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/kira/3/kira_3_body2.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/kira/3/kira_3_body2.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_normal.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_joy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_smile.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_shy.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_sad.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_shock.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_panic.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_resent.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_anger.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/emo/kira_3_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/emo/kira_3_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_pio2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_casual2.png",
-      "storage/graphics/sprites/mods/OverMod/kira/3/clothes/kira_3_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_pio2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_casual2.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11815,24 +11815,24 @@
   {
     "name": "Валерия",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/val/1/val_1_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/val/1/val_1_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_normal.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_joy.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_smile.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_shy.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_sad.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_shock.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_panic.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_resent.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_anger.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/emo/val_1_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/emo/val_1_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/val/1/clothes/val_1_pio.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/clothes/val_1_sport.png",
-      "storage/graphics/sprites/mods/OverMod/val/1/clothes/val_1_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/clothes/val_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/clothes/val_1_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/1/clothes/val_1_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11842,24 +11842,24 @@
   {
     "name": "Валерия",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/val/2/val_2_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/val/2/val_2_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_normal.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_joy.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_smile.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_shy.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_sad.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_shock.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_panic.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_resent.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_anger.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/emo/val_2_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/emo/val_2_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/val/2/clothes/val_2_pio.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/clothes/val_2_sport.png",
-      "storage/graphics/sprites/mods/OverMod/val/2/clothes/val_2_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/clothes/val_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/clothes/val_2_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/2/clothes/val_2_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -11869,24 +11869,24 @@
   {
     "name": "Валерия",
     "modification": "from Over",
-    "file": "storage/graphics/sprites/mods/OverMod/val/3/val_3_body.png",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/val/3/val_3_body.png",
     "emotions": [
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_normal.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_joy.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_smile.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_shy.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_sad.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_shock.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_panic.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_resent.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_anger.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_disgust.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/emo/val_3_cry.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/emo/val_3_cry.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/mods/OverMod/val/3/clothes/val_3_pio.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/clothes/val_3_sport.png",
-      "storage/graphics/sprites/mods/OverMod/val/3/clothes/val_3_swim.png"
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/clothes/val_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/clothes/val_3_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/val/3/clothes/val_3_swim.png"
     ],
     "offset": "50% 15%",
     "accessories": [
