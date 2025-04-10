@@ -45,7 +45,8 @@
       "storage/graphics/sprites/cs/cs_1_labcoatns.png",
       "storage/graphics/sprites/cs/cs_1_swim2.png",
       "storage/graphics/sprites/cs/cs_1_swim.png",
-      "storage/graphics/sprites/cs/cs_1_casual2.png"
+      "storage/graphics/sprites/cs/cs_1_casual2.png",
+      "storage/graphics/sprites/cs/cs_1_coat.png"
     ],
     "offset": "50% 15%",
     "accessories": [
