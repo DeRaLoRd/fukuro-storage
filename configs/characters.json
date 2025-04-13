@@ -35,6 +35,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/cs/cs_1_labcoat.png",
+      "storage/graphics/sprites/cs/cs_1_pio.png",
       "storage/graphics/sprites/cs/cs_1_casual.png",
       "storage/graphics/sprites/cs/cs_1_civil.png",
       "storage/graphics/sprites/cs/cs_1_civil2.png",
@@ -44,7 +45,7 @@
       "storage/graphics/sprites/cs/cs_1_labcoatns.png",
       "storage/graphics/sprites/cs/cs_1_swim2.png",
       "storage/graphics/sprites/cs/cs_1_swim.png",
-      "storage/graphics/sprites/cs/cs_1_casual2.png"
+      "storage/graphics/sprites/cs/cs_1_casual2.png",
     ],
     "offset": "50% 15%",
     "accessories": [
@@ -5893,7 +5894,6 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE",
       "storage/graphics/sprites/mods/EC_RP/li/li_1_body_dark_n.png"
     ],
     "offset": "50% 23%",
@@ -5917,7 +5917,6 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/EC_RP/li/li_2_pioneer.png",
-      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -5959,7 +5958,6 @@
       "NONE",
       "NONE",
       "NONE",
-      "NONE",
       "storage/graphics/sprites/mods/EC_RP/li/li_3_dark_shirt.png",
       "NONE",
       "NONE",
@@ -5991,7 +5989,6 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/EC_RP/li/li_4_pioneer.png",
-      "NONE",
       "NONE",
       "NONE",
       "NONE",
@@ -6299,6 +6296,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pioneer.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sport.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata.png",
@@ -6328,6 +6326,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pioneer.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sport.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata.png",
@@ -6382,6 +6381,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pioneer.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sport.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata.png",
@@ -6429,6 +6429,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pio_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
@@ -6457,6 +6458,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pio_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_kare.png"
@@ -6510,6 +6512,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pio_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_kare.png"
@@ -6556,6 +6559,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_pio_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/1/clothes/ev_1_yukata_kare.png"
@@ -6584,6 +6588,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_pio_tail.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/2/clothes/ev_2_yukata_tail.png"
@@ -6637,6 +6642,7 @@
     "clothes": [
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_pio_tail.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sport_kare.png",
+      "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_dress_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_sleep_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_swimsuit_kare.png",
       "storage/graphics/sprites/mods/BLPI/ev/3/clothes/ev_3_yukata_tail.png"
