@@ -603,7 +603,7 @@
       "storage/graphics/sprites/sprites_hitbox_2.png"
     ]
   },
- {
+  {
     "name": "Алиса",
     "modification": "Бесконечное лето",
     "file": "storage/graphics/sprites/dv/dv_3_body_pt.png",
@@ -5419,7 +5419,7 @@
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
-    {
+  {
     "name": "Алеся",
     "modification": "Алеся: Побег из лагеря",
     "file": "storage/graphics/sprites/sprites_hitbox_5.png",
@@ -11516,7 +11516,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/alina/1/clothes/alina_1_casual.png",
       "storage/graphics/sprites/mods/Additional/OverMod/alina/1/clothes/alina_1_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 38%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11543,7 +11543,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/alina/2/clothes/alina_2_casual.png",
       "storage/graphics/sprites/mods/Additional/OverMod/alina/2/clothes/alina_2_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 38%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11570,7 +11570,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/alina/3/clothes/alina_3_casual.png",
       "storage/graphics/sprites/mods/Additional/OverMod/alina/3/clothes/alina_3_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 38%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11597,7 +11597,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/clothes/lotte_1_dress.png",
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/1/clothes/lotte_1_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 46%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11624,7 +11624,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/clothes/lotte_2_dress.png",
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/2/clothes/lotte_2_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 46%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11651,7 +11651,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/clothes/lotte_3_dress.png",
       "storage/graphics/sprites/mods/Additional/OverMod/lotte/3/clothes/lotte_3_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 46%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11678,7 +11678,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_casual1.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11705,7 +11705,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_casual1.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11732,7 +11732,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_casual1.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11759,7 +11759,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_casual2.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/1/clothes/kira_1_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11786,7 +11786,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_casual2.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/2/clothes/kira_2_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11813,7 +11813,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_casual2.png",
       "storage/graphics/sprites/mods/Additional/OverMod/kira/3/clothes/kira_3_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 26%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11840,7 +11840,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/val/1/clothes/val_1_sport.png",
       "storage/graphics/sprites/mods/Additional/OverMod/val/1/clothes/val_1_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11867,7 +11867,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/val/2/clothes/val_2_sport.png",
       "storage/graphics/sprites/mods/Additional/OverMod/val/2/clothes/val_2_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -11894,7 +11894,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/val/3/clothes/val_3_sport.png",
       "storage/graphics/sprites/mods/Additional/OverMod/val/3/clothes/val_3_swim.png"
     ],
-    "offset": "50% 15%",
+    "offset": "50% 28%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
@@ -15932,7 +15932,7 @@
       "storage/graphics/sprites/mods/Additional/yir/yir_1_uh.png",
       "storage/graphics/sprites/mods/Additional/yir/yir_1_cry0.png",
       "storage/graphics/sprites/mods/Additional/yir/yir_1_was.png",
-      "storage/graphics/sprites/mods/Additional/yir/yir_1_wow.png",	
+      "storage/graphics/sprites/mods/Additional/yir/yir_1_wow.png",
       "storage/graphics/sprites/mods/Additional/yir/yir_1_wow0.png"
     ],
     "clothes": [
@@ -16866,8 +16866,8 @@
     ],
     "offset": "50% 28%",
     "accessories": [
-    "storage/graphics/sprites/sprites_hitbox_1.png",
-    "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/Tai/glasses.png"
     ]
   },
   {
@@ -17111,7 +17111,7 @@
     "modification": "Двое",
     "file": "storage/graphics/sprites/mods/DVA/Olesya/oles_body_front.png",
     "emotions": [
-      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",	
+      "storage/graphics/sprites/mods/DVA/Olesya/oles_f_norm.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_f_smile.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_f_happy.png",
       "storage/graphics/sprites/mods/DVA/Olesya/oles_f_worry.png",
