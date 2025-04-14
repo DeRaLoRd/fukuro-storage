@@ -17616,7 +17616,9 @@
       "storage/graphics/sprites/wt/cs/cs_1_shy.png"
     ],
     "clothes": [
-      "storage/graphics/sprites/wt/cs/cs_1_coat.png"
+      "storage/graphics/sprites/wt/cs/cs_1_coat.png",
+      "storage/graphics/sprites/wt/cs/cs_1_coat2.png"
+
     ],
     "offset": "50% 15%",
     "accessories": [
