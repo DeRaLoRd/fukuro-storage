@@ -12489,6 +12489,140 @@
     ]
   },
   {
+    "name": "Рейзор",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/rz/1/rz_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_grin.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock3.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/rz/1/clothes/rz_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/clothes/rz_1_casual.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Рейзор",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/rz/2/rz_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_grin.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock2.png",
+      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock3.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/rz/2/clothes/rz_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/rz/2/clothes/rz_2_casual.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Декора",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/dec/1/dec_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_neutral.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_discontent.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_discontent2.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_wonder.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_scream.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_gloom.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_zlo.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_concern.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_closeeyes.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_closeeyes2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_casual.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_casual2.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_casual3.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_sport.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_dress.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_swim.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/clothes/dec_1_sleep.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/acc/dec_1_acc.png"
+    ]
+  },
+  {
+    "name": "Декора",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/dec/2/dec_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_neutral.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_smile2.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_discontent.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_discontent2.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_wonder.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_scream.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_gloom.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_zlo.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_concern.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_closeeyes.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/emo/dec_1_closeeyes2.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_casual.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_casual2.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_casual3.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_sport.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_dress.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_swim.png",
+      "storage/graphics/sprites/mods/Additional/dec/2/clothes/dec_2_sleep.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/dec/1/acc/dec_1_acc.png"
+    ]
+  },
+  {
     "name": "EoS al",
     "modification": "Элемент системы",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
@@ -13921,68 +14055,6 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/March/Accessories/ma_1_tie.png"
-    ]
-  },
-  {
-    "name": "Рейзор",
-    "modification": "Сообщество",
-    "file": "storage/graphics/sprites/mods/Additional/rz/1/rz_1_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_grin.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock3.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/Additional/rz/1/clothes/rz_1_pio.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/clothes/rz_1_casual.png"
-    ],
-    "offset": "50% 38%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
-    ]
-  },
-  {
-    "name": "Рейзор",
-    "modification": "Сообщество",
-    "file": "storage/graphics/sprites/mods/Additional/rz/2/rz_2_body.png",
-    "emotions": [
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_normal2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_smile2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_grin.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_discontent2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_hatred2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_sad2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_angry2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock2.png",
-      "storage/graphics/sprites/mods/Additional/rz/1/emotions/rz_1_shock3.png"
-    ],
-    "clothes": [
-      "storage/graphics/sprites/mods/Additional/rz/2/clothes/rz_2_pio.png",
-      "storage/graphics/sprites/mods/Additional/rz/2/clothes/rz_2_casual.png"
-    ],
-    "offset": "50% 38%",
-    "accessories": [
-      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
