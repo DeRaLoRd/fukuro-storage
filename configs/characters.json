@@ -1034,6 +1034,221 @@
     ]
   },
   {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Rebirth/dv/3/dv_3_prj.png",
+    "emotions": [
+      "storage/graphics/sprites/dv/dv_3_shy.png",
+      "storage/graphics/sprites/dv/dv_3_shy_smile.png",
+      "storage/graphics/sprites/dv/dv_3_guilty.png",
+      "storage/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "storage/graphics/sprites/dv/dv_3_cry_smile.png",
+      "storage/graphics/sprites/dv/dv_3_cry2.png",
+      "storage/graphics/sprites/dv/dv_3_sad.png",
+      "storage/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/dv/dv_3_shy.png",
+      "storage/graphics/sprites/dv/dv_3_shy_smile.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_3_guilty.png",
+      "storage/graphics/sprites/dv/dv_3_closed_eyes.png",
+      "storage/graphics/sprites/dv/dv_3_cry_smile.png",
+      "storage/graphics/sprites/dv/dv_3_cry2.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_3_sad.png",
+      "storage/graphics/sprites/dv/dv_3_sad_smile.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/dv/dv_3_pioneer.png",
+      "storage/graphics/sprites/dv/dv_3_pioneer2.png",
+      "storage/graphics/sprites/dv/dv_3_sport.png",
+      "storage/graphics/sprites/dv/dv_3_sport2.png",
+      "storage/graphics/sprites/dv/dv_3_swim.png",
+      "storage/graphics/sprites/dv/dv_3_sleep.png",
+      "storage/graphics/sprites/dv/dv_3_orangejacket.png",
+      "storage/graphics/sprites/dv/dv_3_civil.png",
+      "storage/graphics/sprites/dv/dv_3_casual2.png",
+      "storage/graphics/sprites/dv/dv_3_casual.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_3_casual.png",
+      "storage/graphics/sprites/dv/dv_3_hoody.png",
+      "storage/graphics/sprites/dv/dv_3_official.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_3_gown_normal.png",
+      "storage/graphics/sprites/dv/dv_3_dress.png",
+      "storage/graphics/sprites/dv/dv_3_raincoat.png",
+      "storage/graphics/sprites/dv/dv_3_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/dv/dv_3_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Rebirth/dv/2/dv_2_prj.png",
+    "emotions": [
+      "storage/graphics/sprites/dv/dv_2_grin.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/dv/dv_2_grin.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/dv/dv_2_pioneer.png",
+      "storage/graphics/sprites/dv/dv_2_pioneer2.png",
+      "storage/graphics/sprites/dv/dv_2_sport.png",
+      "storage/graphics/sprites/dv/dv_2_sport2.png",
+      "storage/graphics/sprites/dv/dv_2_swim.png",
+      "storage/graphics/sprites/dv/dv_2_sleep.png",
+      "storage/graphics/sprites/dv/dv_2_orangejacket.png",
+      "storage/graphics/sprites/dv/dv_2_civil.png",
+      "storage/graphics/sprites/dv/dv_2_casual2.png",
+      "storage/graphics/sprites/dv/dv_2_casual.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_2_casual.png",
+      "storage/graphics/sprites/dv/dv_2_hoody.png",
+      "storage/graphics/sprites/dv/dv_2_official.jpg",
+      "storage/graphics/sprites/mods/Additional/dv/dv_2_gown_normal.png",
+      "storage/graphics/sprites/dv/dv_2_dress.png",
+      "storage/graphics/sprites/dv/dv_2_raincoat.png",
+      "storage/graphics/sprites/dv/dv_2_yukata.png"
+    ],
+    "offset": "50% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/dv/dv_2_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Rebirth/dv/1/dv_1_prj.png",
+    "emotions": [
+      "storage/graphics/sprites/dv/dv_1_surprise.png",
+      "storage/graphics/sprites/dv/dv_1_think.png",
+      "storage/graphics/sprites/dv/dv_1_concent.png",
+      "storage/graphics/sprites/dv/dv_1_shocked.png",
+      "storage/graphics/sprites/dv/dv_1_scared.png",
+      "storage/graphics/sprites/dv/dv_1_cry.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/dv/dv_1_surprise.png",
+      "storage/graphics/sprites/dv/dv_1_think.png",
+      "storage/graphics/sprites/dv/dv_1_concent.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_1_shocked.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_1_scared.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_1_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/dv/dv_1_pioneer.png",
+      "storage/graphics/sprites/dv/dv_1_pioneer2.png",
+      "storage/graphics/sprites/dv/dv_1_sport.png",
+      "storage/graphics/sprites/dv/dv_1_sport2.png",
+      "storage/graphics/sprites/dv/dv_1_swim.png",
+      "storage/graphics/sprites/dv/dv_1_sleep.png",
+      "storage/graphics/sprites/dv/dv_1_orangejacket.png",
+      "storage/graphics/sprites/dv/dv_1_civil.png",
+      "storage/graphics/sprites/dv/dv_1_casual2.png",
+      "storage/graphics/sprites/dv/dv_1_casual.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_1_casual.png",
+      "storage/graphics/sprites/dv/dv_1_hoody.png",
+      "storage/graphics/sprites/dv/dv_1_official.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_1_gown_normal.png",
+      "storage/graphics/sprites/dv/dv_1_dress.png",
+      "storage/graphics/sprites/dv/dv_1_raincoat.png",
+      "storage/graphics/sprites/dv/dv_1_yukata.png"
+    ],
+    "offset": "49% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/dv/dv_1_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Rebirth/dv/4/dv_4_prj.png",
+    "emotions": [
+      "storage/graphics/sprites/dv/dv_4_laugh.png",
+      "storage/graphics/sprites/dv/dv_4_normal.png",
+      "storage/graphics/sprites/dv/dv_4_smile.png",
+      "storage/graphics/sprites/dv/dv_4_soft_smile.png",
+      "storage/graphics/sprites/dv/dv_4_shy2.png",
+      "storage/graphics/sprites/dv/dv_4_tired.png",
+      "storage/graphics/sprites/dv/dv_4_dontlike.png",
+      "storage/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/dv/dv_4_laugh.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_4_normal.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_4_smile.png",
+      "storage/graphics/sprites/dv/dv_4_soft_smile.png",
+      "storage/graphics/sprites/dv/dv_4_shy2.png",
+      "storage/graphics/sprites/dv/dv_4_tired.png",
+      "storage/graphics/sprites/dv/dv_4_dontlike.png",
+      "storage/graphics/sprites/dv/dv_4_sadness.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/dv/dv_4_pioneer.png",
+      "storage/graphics/sprites/dv/dv_4_pioneer2.png",
+      "storage/graphics/sprites/dv/dv_4_sport.png",
+      "storage/graphics/sprites/dv/dv_4_sport2.png",
+      "storage/graphics/sprites/dv/dv_4_swim.png",
+      "storage/graphics/sprites/dv/dv_4_sleep.png",
+      "storage/graphics/sprites/dv/dv_4_orangejacket.png",
+      "storage/graphics/sprites/dv/dv_4_civil.png",
+      "storage/graphics/sprites/dv/dv_4_casual2.png",
+      "storage/graphics/sprites/dv/dv_4_casual.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_4_casual.png",
+      "storage/graphics/sprites/dv/dv_4_hoody.png",
+      "storage/graphics/sprites/dv/dv_4_official.jpg",
+      "storage/graphics/sprites/mods/Additional/dv/dv_4_gown_normal.png",
+      "storage/graphics/sprites/dv/dv_4_dress.png",
+      "storage/graphics/sprites/dv/dv_4_raincoat.png",
+      "storage/graphics/sprites/dv/dv_4_yukata.png"
+    ],
+    "offset": "47% 29%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/dv/dv_4_ears.png"
+    ]
+  },
+  {
+    "name": "Алиса",
+    "modification": "Бесконечное лето",
+    "file": "storage/graphics/sprites/mods/Rebirth/dv/5/dv_5_prj.png",
+    "emotions": [
+      "storage/graphics/sprites/dv/dv_5_angry.png",
+      "storage/graphics/sprites/dv/dv_5_rage.png"
+    ],
+    "emotions_alt": [
+      "storage/graphics/sprites/orika_alt/dv/dv_5_angry.png",
+      "storage/graphics/sprites/orika_alt/dv/dv_5_rage.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/dv/dv_5_pioneer.png",
+      "storage/graphics/sprites/dv/dv_5_pioneer2.png",
+      "storage/graphics/sprites/dv/dv_5_sport.png",
+      "storage/graphics/sprites/dv/dv_5_sport2.png",
+      "storage/graphics/sprites/dv/dv_5_swim.png",
+      "storage/graphics/sprites/dv/dv_5_sleep.png",
+      "storage/graphics/sprites/dv/dv_5_orangejacket.png",
+      "storage/graphics/sprites/dv/dv_5_civil.png",
+      "storage/graphics/sprites/dv/dv_5_casual2.png",
+      "storage/graphics/sprites/dv/dv_5_casual.png",
+      "storage/graphics/sprites/mods/Additional/dv/dv_5_casual.png",
+      "storage/graphics/sprites/dv/dv_5_hoody.png",
+      "storage/graphics/sprites/dv/dv_5_official.jpg",
+      "storage/graphics/sprites/mods/Additional/dv/dv_5_gown_normal.png",
+      "storage/graphics/sprites/dv/dv_5_dress.png",
+      "storage/graphics/sprites/dv/dv_5_raincoat.png",
+      "storage/graphics/sprites/dv/dv_5_yukata.png"
+    ],
+    "offset": "51% 31%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/dv/dv_5_ears.png"
+    ]
+  },
+  {
     "name": "Маленькая Алиса",
     "modification": "7 Дней Лета: Lost Alpha",
     "file": "storage/graphics/sprites/mods/Additional/dvk/dvk_1_body.png",
@@ -12620,6 +12835,213 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/dec/1/acc/dec_1_acc.png"
+    ]
+  },
+  {
+    "name": "Галя",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/1/ann_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_perplexed.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_dress.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_coat.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_sport.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Галя",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/2/ann_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_surp2.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_angry.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_dress.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_coat.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_sport.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Эвелина",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ev/1/ev_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_mona.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_surprise.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_happiness.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_light_smile.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/emo/ev_1_sad.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/ev/1/clothes/ev_1_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/1/clothes/ev_1_lingerie.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Эвелина",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ev/2/ev_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ev/2/emo/ev_2_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/2/emo/ev_2_smile.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/2/emo/ev_2_surprise.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/2/emo/ev_2_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/2/emo/ev_2_sad.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/ev/2/clothes/ev_2_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/ev/2/clothes/ev_2_lingerie.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгения",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/jn/1/jn_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_smile.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_smile2.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_shy2.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh2.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh3.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_cry.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_normal_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_smile_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_smile2_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_surp_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_shy_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_shy2_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh2_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_laugh3_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_sad_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/emo/jn_1_cry_purple.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_pio_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_cloth.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_clo_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_underwear.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгения",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/jn/2/jn_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_smile.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_thoug.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_thoug2.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy2.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy3.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_cry.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_normal_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_smile_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_thoug_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_thoug2_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_surp_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_laugh_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy2_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_shy3_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/emo/jn_2_cry_purple.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_pio_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_cloth.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_clo_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_underwear.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгения",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/jn/3/jn_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_smile.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_thoug.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_unhappy.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_scared.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_angry.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_cry.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_normal_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_smile_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_thoug_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_unhappy_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_surp_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_laugh_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_shy_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_sad_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_scared_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_angry_purple.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/emo/jn_3_cry_purple.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_pio.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_pio_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_cloth.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_clo_kof.png",
+      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_underwear.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
     ]
   },
   {
