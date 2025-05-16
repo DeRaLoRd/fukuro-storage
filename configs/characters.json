@@ -14480,6 +14480,37 @@
     ]
   },
   {
+    "name": "Рей",
+    "modification": "Сообщество",
+    "file": "storage/graphics/sprites/mods/Additional/rey/1/rey_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_smilehihih.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_zloizloi.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_pioblack.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_blouse.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_blouseblack.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_shirt.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_shirtblack.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_coatr.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_coatb.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_costume.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_mask.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_ring.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_smoke.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_xglass.png"
+    ]
+  },
+  {
     "name": "Вика",
     "modification": "Недостающее Звено Другого Мира",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
