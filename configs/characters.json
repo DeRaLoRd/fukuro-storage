@@ -14488,7 +14488,12 @@
       "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_smile.png",
       "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_smilehihih.png",
       "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_zloizloi.png"
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_zloizloi.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_stressed.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_be.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_sussy.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_totalslay.png",
+      "storage/graphics/sprites/mods/Additional/rey/1/emotions/rey_1_ahegao.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_pio.png",
@@ -14502,7 +14507,7 @@
       "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_costume.png",
       "storage/graphics/sprites/mods/Additional/rey/1/clothes/rey_1_xcostume.png"
     ],
-    "offset": "50% 38%",
+    "offset": "45% 15%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_mask.png",
