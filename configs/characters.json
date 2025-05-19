@@ -19968,5 +19968,47 @@
       "storage/graphics/sprites/mods/BLPI/kr/4/acc/kr_4_ears.png",
       "storage/graphics/sprites/wt/BLPI/kr/4/acc/kr_4_new_year's_hat.png"
     ]
-  }
+  },
+  {
+    "name": "wt_Галя",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/1/ann_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_perplexed.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/wt/Rebirth/ann/1/clothes/ann_1_coat.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "wt_Галя",
+    "modification": "Перерождение",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/2/ann_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_normal.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_laugh.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_surp.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_surp2.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_shy.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_sad.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_angry.png",
+      "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_cry.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/wt/Rebirth/ann/2/clothes/ann_2_coat.png"
+    ],
+    "offset": "50% 23%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
 ]
