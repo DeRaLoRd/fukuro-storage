@@ -12956,9 +12956,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_pio.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_pio_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_clo_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/1/clothes/jn_1_underwear.png"
     ],
     "offset": "50% 23%",
@@ -12994,9 +12992,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_pio.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_pio_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_clo_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/2/clothes/jn_2_underwear.png"
     ],
     "offset": "50% 23%",
@@ -13034,9 +13030,7 @@
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_pio.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_pio_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_cloth.png",
-      "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_clo_kof.png",
       "storage/graphics/sprites/mods/Rebirth/jn/3/clothes/jn_3_underwear.png"
     ],
     "offset": "50% 23%",
