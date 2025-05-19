@@ -14510,9 +14510,7 @@
     "offset": "45% 15%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_mask.png",
       "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_ring.png",
-      "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_smoke.png",
       "storage/graphics/sprites/mods/Additional/rey/1/acc/rey_1_xglass.png"
     ]
   },
