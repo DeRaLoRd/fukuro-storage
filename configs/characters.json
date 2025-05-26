@@ -12921,7 +12921,7 @@
   {
     "name": "Галя",
     "modification": "Перерождение",
-    "file": "storage/graphics/sprites/mods/Rebirth/ann/1/ann_1_body.png",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/1/ann_1_wtbody.png",
     "emotions": [
       "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_normal.png",
       "storage/graphics/sprites/mods/Rebirth/ann/1/emo/ann_1_laugh.png",
@@ -12944,7 +12944,7 @@
   {
     "name": "Галя",
     "modification": "Перерождение",
-    "file": "storage/graphics/sprites/mods/Rebirth/ann/2/ann_2_body.png",
+    "file": "storage/graphics/sprites/mods/Rebirth/ann/2/ann_2_wtbody.png",
     "emotions": [
       "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_normal.png",
       "storage/graphics/sprites/mods/Rebirth/ann/2/emo/ann_2_laugh.png",
@@ -18282,7 +18282,6 @@
     "clothes": [
       "storage/graphics/sprites/wt/cs/cs_1_coat.png",
       "storage/graphics/sprites/wt/cs/cs_1_coat2.png"
-
     ],
     "offset": "50% 15%",
     "accessories": [
