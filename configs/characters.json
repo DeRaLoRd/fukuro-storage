@@ -12933,7 +12933,6 @@
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_pio.png",
       "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_dress.png",
-      "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_coat.png",
       "storage/graphics/sprites/mods/Rebirth/ann/1/clothes/ann_1_sport.png"
     ],
     "offset": "50% 23%",
@@ -12958,7 +12957,6 @@
     "clothes": [
       "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_pio.png",
       "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_dress.png",
-      "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_coat.png",
       "storage/graphics/sprites/mods/Rebirth/ann/2/clothes/ann_2_sport.png"
     ],
     "offset": "50% 23%",
