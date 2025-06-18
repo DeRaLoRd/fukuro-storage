@@ -390,5 +390,13 @@
     "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=3336616479",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "1997",
+    "icon": "1997.jpg",
+    "vk": "https://vk.com/hitnrunds",
+    "steam": "https://store.steampowered.com/app/2013120/1997/",
+    "alt": "false",
+    "enabled": "true"
   }
 ]

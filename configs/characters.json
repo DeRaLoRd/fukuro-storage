@@ -12919,6 +12919,61 @@
     ]
   },
   {
+    "name": "Алиса1997",
+    "modification": "1997",
+    "file": "storage/graphics/sprites/sprites_hitbox.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_normal.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_normal2.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_normal_smile.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_smile.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_laugh.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_surprise.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_shy.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_think.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_upset.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_angry.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_cry1.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_cry2.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_fear.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_distrust.png",
+      "storage/graphics/sprites/mods/1997/al/1/emo/alisa_1_closed_eyes.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/1997/al/1/clothes/alisa_1_pioneer.png",
+      "storage/graphics/sprites/mods/1997/al/1/clothes/alisa_1_school.png",
+      "storage/graphics/sprites/mods/1997/al/1/clothes/alisa_1_school2.png",
+      "storage/graphics/sprites/mods/1997/al/1/clothes/alisa_1_sport.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Алиса1997",
+    "modification": "1997",
+    "file": "storage/graphics/sprites/sprites_hitbox.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_fault.png",
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_sad.png",
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_hysteria.png",
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_cry1.png",
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_cry2.png",
+      "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_think.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/1997/al/2/clothes/alisa_2_pioneer.png",
+      "storage/graphics/sprites/mods/1997/al/2/clothes/alisa_2_school.png",
+      "storage/graphics/sprites/mods/1997/al/2/clothes/alisa_2_school2.png",
+      "storage/graphics/sprites/mods/1997/al/2/clothes/alisa_2_sport.png"
+    ],
+    "offset": "50% 38%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Галя",
     "modification": "Перерождение",
     "file": "storage/graphics/sprites/mods/Rebirth/ann/1/ann_1_wtbody.png",
