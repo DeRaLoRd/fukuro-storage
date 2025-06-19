@@ -398,5 +398,13 @@
     "steam": "https://store.steampowered.com/app/2013120/1997/",
     "alt": "false",
     "enabled": "true"
+  },
+  {
+    "name": "Современный Совёнок",
+    "icon": "ModernSovyonok.jpg",
+    "vk": "https://vk.ru/modernowl",
+    "steam": "https://steamcommunity.com/sharedfiles/filedetails/?id=958795666",
+    "alt": "false",
+    "enabled": "true"
   }
 ]

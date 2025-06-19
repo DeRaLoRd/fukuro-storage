@@ -8107,6 +8107,32 @@
     ]
   },
   {
+    "name": "Хайт",
+    "modification": "Современный Совёнок",
+    "file": "storage/graphics/sprites/sprites_hitbox.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_normal.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_smile.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_hihi.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_surprise.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_pizdec.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_chort.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_angry.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_angry1.png"
+
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_pioneer.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_casual.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_costume.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_sport.png",
+    ],
+    "offset": "50% 20%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Дубликат Артём взрослый",
     "modification": "Дубликат",
     "file": "storage/graphics/sprites/mods/Dublicate/d_ar/d_ar_adl_body.png",
@@ -12953,7 +12979,7 @@
   {
     "name": "Алиса1997",
     "modification": "1997",
-    "file": "storage/graphics/sprites/sprites_hitbox.png",
+    "file": "storage/graphics/sprites/sprites_hitbox_2.png",
     "emotions": [
       "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_fault.png",
       "storage/graphics/sprites/mods/1997/al/2/emo/alisa_2_sad.png",
