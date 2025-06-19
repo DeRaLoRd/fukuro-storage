@@ -12220,6 +12220,87 @@
     ]
   },
   {
+    "name": "Сон Джин-Ву",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/sung/1/sung_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/clothes/sung_1_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/clothes/sung_1_office.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/clothes/sung_1_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Сон Джин-Ву",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/sung/2/sung_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/2/clothes/sung_2_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/2/clothes/sung_2_office.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/2/clothes/sung_2_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Сон Джин-Ву",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/sung/3/sung_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_pio.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_office.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
     "name": "Гопник",
     "modification": "Быдло в Совёнке",
     "file": "storage/graphics/sprites/sprites_hitbox_1.png",
