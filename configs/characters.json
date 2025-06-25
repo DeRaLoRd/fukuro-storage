@@ -12234,7 +12234,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/clothes/sung_1_pio.png",
@@ -12261,7 +12261,7 @@
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/OverMod/sung/2/clothes/sung_2_pio.png",
@@ -12288,12 +12288,93 @@
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_panic.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_cry.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_angry.png",
-      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/sung/1/emo/sung_1_disgust.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_pio.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_office.png",
       "storage/graphics/sprites/mods/Additional/OverMod/sung/3/clothes/sung_3_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгений",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/eug_1_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/emo/eug_1_disgust.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/clothes/eug_1_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/clothes/eug_1_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/1/clothes/eug_1_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгений",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/eug_2_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/emo/eug_2_disgust.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/clothes/eug_2_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/clothes/eug_2_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/2/clothes/eug_2_swim.png"
+    ],
+    "offset": "50% 28%",
+    "accessories": [
+      "storage/graphics/sprites/sprites_hitbox_1.png"
+    ]
+  },
+  {
+    "name": "Евгений",
+    "modification": "from Over",
+    "file": "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/eug_3_body.png",
+    "emotions": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_normal.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_smile.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_joy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_shock.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_shy.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_sad.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_resent.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_panic.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_cry.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_anger.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/emo/eug_3_disgust.png"
+    ],
+    "clothes": [
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/clothes/eug_3_pioneer.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/clothes/eug_3_sport.png",
+      "storage/graphics/sprites/mods/Additional/OverMod/jeka/3/clothes/eug_3_swim.png"
     ],
     "offset": "50% 28%",
     "accessories": [
