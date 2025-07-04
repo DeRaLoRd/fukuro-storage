@@ -8121,13 +8121,12 @@
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_chort.png",
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_angry.png",
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/emo/hyte_1_angry1.png"
-
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_pioneer.png",
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_casual.png",
       "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_costume.png",
-      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_sport.png",
+      "storage/graphics/sprites/mods/Modern_Sovyonok/hyte/1/clothes/hyte_1_sport.png"
     ],
     "offset": "50% 20%",
     "accessories": [
