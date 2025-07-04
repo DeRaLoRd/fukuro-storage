@@ -6052,7 +6052,8 @@
     "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears.png",
+      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears1.png",
+      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears2.png",
       "storage/graphics/sprites/mods/EC_RP/li/li_1_glasses.png"
     ]
   },
@@ -6114,7 +6115,8 @@
     "offset": "50% 23%",
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
-      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears.png",
+      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears1.png",
+      "storage/graphics/sprites/mods/EC_RP/li/li_1_ears2.png",
       "storage/graphics/sprites/mods/EC_RP/li/li2_glasses.png"
     ]
   },
