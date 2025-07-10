@@ -16683,7 +16683,9 @@
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/laugh_1.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/normal_1.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/serious_1.png",
-      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/surprise_1.png"
+      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/surprise_1.png",
+      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/smile_1.png",
+      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/emo/discon_1.png"
     ],
     "clothes": [
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/clothes/pioneer_1.png",
@@ -16696,6 +16698,7 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/hat_1.png",
+      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/horn_1.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/horror_1.png"
     ]
   },
@@ -16720,6 +16723,7 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/hat_2.png",
+      "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/1/acc/horn_2.png",
       "storage/graphics/sprites/mods/Darling_in_the_Sovyonok/02/2/acc/horror_2.png"
     ]
   },
