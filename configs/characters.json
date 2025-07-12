@@ -6156,7 +6156,8 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/sprites_hitbox_2.png",
-      "storage/graphics/sprites/sprites_hitbox_3.png"
+      "storage/graphics/sprites/sprites_hitbox_3.png",
+      "storage/graphics/sprites/sprites_hitbox_4.png"
     ]
   },
   {
@@ -6192,7 +6193,8 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/sprites_hitbox_2.png",
-      "storage/graphics/sprites/sprites_hitbox_3.png"
+      "storage/graphics/sprites/sprites_hitbox_3.png",
+      "storage/graphics/sprites/sprites_hitbox_4.png"
     ]
   },
   {
@@ -6228,7 +6230,8 @@
     "accessories": [
       "storage/graphics/sprites/sprites_hitbox_1.png",
       "storage/graphics/sprites/sprites_hitbox_2.png",
-      "storage/graphics/sprites/sprites_hitbox_3.png"
+      "storage/graphics/sprites/sprites_hitbox_3.png",
+      "storage/graphics/sprites/sprites_hitbox_4.png"
     ]
   },
   {
